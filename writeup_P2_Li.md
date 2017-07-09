@@ -253,7 +253,7 @@ Below is the bar charts as the visualizations for softmax probabilities of the 6
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 ####1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
-Below are the visualization of the feature maps from the first and the second convolutional layer.
+Below is the visualization of the feature maps from the first and the second convolutional layer.
 
 ![alt text][image11]
 ![alt text][image12]
