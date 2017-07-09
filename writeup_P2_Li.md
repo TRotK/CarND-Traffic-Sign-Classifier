@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image5]: ./image_cl_cp.png "Cropping"
 [image6]: ./image_cl_rot.png "Rotation"
 [image7]: ./image_cl_af.png "Affine Transformation"
-[image8]: ./visualization_aug.png "Visualization Aug"
+[image8]: ./visualization_ang.png "Visualization Aug"
 [image9]: ./new_images.png "New Images"
 [image10]: ./gv_softmax.png "Softmax"
 [image11]: ./fm_conv1.png "Feature Maps of Conv1"
@@ -37,7 +37,7 @@ The goals / steps of this project are the following:
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/TRotK/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
 
