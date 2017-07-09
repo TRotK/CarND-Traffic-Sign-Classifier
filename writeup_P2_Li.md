@@ -76,7 +76,7 @@ Cropping the original image is to use four 28 x 28 windows along the diagonal th
 
 ![alt text][image5]
 
-Slightly rotate the image by 10 degree clockwise and anti-clockwise, respectively. I created three times more of certain training data.
+Slightly rotate the image by 10 degrees clockwise and anti-clockwise, respectively. I created three times more of certain training data.
 
 ![alt text][image6]
 
@@ -224,7 +224,7 @@ For the fourth image, the model is relatively sure that this is a Wild animals c
 
 We can see that the model believes the image contains a slippery road with probability of 0.161, which is the correct one the image contains. Compared to the rest, it is pretty close to the largest softmax probability. However, it still fooled the model by making it believe the sign is more like a Wild animals crossing. As mentioned above, this might due to the low resolution of the traffic sign images.
 
-For the fifth image, the model is relatively sure that this is a wild animals crossing sign (probability of 0.999), and the image does contain a wild animals crossing sign. The top five soft max probabilities were
+For the fifth image, the model is fairly sure that this is a wild animals crossing sign (probability of 0.999), and the image does contain a wild animals crossing sign. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
@@ -236,7 +236,7 @@ For the fifth image, the model is relatively sure that this is a wild animals cr
 
 
 
-For the last image, the model is relatively sure that this is a stop sign (probability of 0.999), and the image does contain a stop sign. The top five soft max probabilities were
+For the last image, the model is fairly sure that this is a stop sign (probability of 0.999), and the image does contain a stop sign. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
