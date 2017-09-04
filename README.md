@@ -149,7 +149,7 @@ After data augmentation the validation and the test accuracy got improved, but t
 
 ### Test a Model on New Images
 
-####1. Choose at least five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
+#### 1. Choose at least five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
 Here are six German traffic signs that I found on the web:
 
